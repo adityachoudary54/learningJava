@@ -23,3 +23,9 @@
 ### Case Study Questions
 - [Guessing birthday](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_GuessingBirthday.java)
 - [Hexadecimal Digit to Decimal Digit](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_HexToDec.java)
+
+### Practice Questions
+- [Area of Pentagon](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_AreaOfPentagon_Q1.java)
+- [Random points on circle and finding all angles of the triangle formed](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomPointsOnCircle_Q6.java)
+- [Finding pentagon coordinates on circle](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CornerPointCoordinates_Q7.java)
+- [Dec to Hex](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_DecToHex_Q11.java)
