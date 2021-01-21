@@ -5,7 +5,7 @@ public class Ch4_Practice_GenerateVehiclePlateNumbers_Q25 {
         String letter1 = (char) (Math.random() * 26 + 'A') + "";
         String letter2 = (char) (Math.random() * 26 + 'A') + "";
         String letter3 = (char) (Math.random() * 26 + 'A') + "";
-        String num = (int) (Math.random() * 8999) + 1000 + "";
+        String num = String.format("%4d",(int)(Math.random()*9999)).replace(' ','0');
         System.out.println(letter1 + letter2 + letter3 + num);
     }
 }
