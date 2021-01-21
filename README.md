@@ -25,7 +25,7 @@
 - [Hexadecimal Digit to Decimal Digit](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_HexToDec.java)
 
 ### Practice Questions
-- [Area of Pentagon](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_AreaOfPentagon_Q1.java)
-- [Random points on circle and finding all angles of the triangle formed](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomPointsOnCircle_Q6.java)
-- [Finding pentagon coordinates on circle](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CornerPointCoordinates_Q7.java)
-- [Dec to Hex](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_DecToHex_Q11.java)
+- [Area of Pentagon(Q1)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_AreaOfPentagon_Q1.java)
+- [Random points on circle and finding all angles of the triangle formed(Q6)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomPointsOnCircle_Q6.java)
+- [Finding pentagon coordinates on circle(Q7)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CornerPointCoordinates_Q7.java)
+- [Dec to Hex(Q11)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_DecToHex_Q11.java)
