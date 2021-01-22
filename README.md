@@ -36,7 +36,33 @@
 - [RandomUpperCase_Q16](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomUpperCase_Q16.java)
 - [StudentMajorStatus_Q18](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_StudentMajorStatus_Q18.java)
 
+## Ch 5 Loops
+### Theory Questions
+- [LoopFloat](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Theory_LoopFloat.java)
 
+### Case Study Questions
+- [CheckPalindrome](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_CaseStudy_CheckPalindrome.java)
+- [DecToHex](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_CaseStudy_DecToHex.java)
+- [PrimeNumbers](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_CaseStudy_PrimeNumbers.java)
+
+### Practice Questions
+- [BitLevelOperations_Q44](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_BitLevelOperations_Q44.java)
+- [CancellationErrors_Q23](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_CancellationErrors_Q23.java)
+- [ComputeE_Q26](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_ComputeE_Q26.java)
+- [DecToBinary_Q37](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DecToBinary_Q37.java)
+- [DecToOctal_Q38](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DecToOctal_Q38.java)
+- [DisplayAllCombinations_Q43](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DisplayAllCombinations_Q43.java)
+- [DisplayAsciiTable_Q15](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DisplayAsciiTable_Q15.java)
+- [DisplayFourPatterns_Q18](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DisplayFourPatterns_Q18.java)
+- [DisplayLeapYears_Q27](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DisplayLeapYears_Q27.java)
+- [DisplayPyramid_Q17](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_DisplayPyramid_Q17.java)
+- [FactorsOfInteger_Q16](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_FactorsOfInteger_Q16.java)
+- [HeadsOrTails_Q40](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_HeadsOrTails_Q40.java)
+- [KgPound_PoundKg_Q5](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_KgPound_PoundKg_Q5.java)
+- [KiloPoundTable_Q3](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_KiloPoundTable_Q3.java)
+- [NumDivBy5And6_Q10](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_NumDivBy5And6_Q10.java)
+- [PerfectNumber_Q33](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_PerfectNumber_Q33.java)
+- [TwoHighestScores_Q9](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_TwoHighestScores_Q9.java)
 
 
 
