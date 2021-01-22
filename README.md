@@ -25,15 +25,16 @@
 - [Hexadecimal Digit to Decimal Digit](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_HexToDec.java)
 
 ### Practice Questions
-- [Area of Pentagon(Q1)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_AreaOfPentagon_Q1.java)
-- [Random points on circle and finding all angles of the triangle formed(Q6)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomPointsOnCircle_Q6.java)
-- [Finding pentagon coordinates on circle(Q7)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CornerPointCoordinates_Q7.java)
-- [Dec to Hex(Q11)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_DecToHex_Q11.java)
-- [Random UpperCase(Q16)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomUpperCase_Q16.java)
-- [Student Major Status(Q18)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_StudentMajorStatus_Q18.java)
-- [Check SSN(Q21)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CheckSSN_Q21.java)
-- [Check Substring(Q22)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CheckSubstring_Q22.java)
-- [Generate Vehicle Plate Numbers(Q25)](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_GenerateVehiclePlateNumbers_Q25.java)
+- [AreaOfPentagon_Q1](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_AreaOfPentagon_Q1.java)
+- [CheckSSN_Q21](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CheckSSN_Q21.java)
+- [CheckSubstring_Q22](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CheckSubstring_Q22.java)
+- [CornerPointCoordinates_Q7](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_CornerPointCoordinates_Q7.java)
+- [DecToHex_Q11](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_DecToHex_Q11.java)
+- [GenerateVehiclePlateNumbers_Q25](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_GenerateVehiclePlateNumbers_Q25.java)
+- [OrderThreeCities_Q24](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_OrderThreeCities_Q24.java)
+- [RandomPointsOnCircle_Q6](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomPointsOnCircle_Q6.java)
+- [RandomUpperCase_Q16](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_RandomUpperCase_Q16.java)
+- [StudentMajorStatus_Q18](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch4_Practice_StudentMajorStatus_Q18.java)
 
 
 
