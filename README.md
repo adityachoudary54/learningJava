@@ -64,6 +64,17 @@
 - [PerfectNumber_Q33](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_PerfectNumber_Q33.java)
 - [TwoHighestScores_Q9](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch5_Practice_TwoHighestScores_Q9.java)
 
+## Ch 6 Methods
+### Theory Questions
+- [CallByRefForNonPrimitive](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_Theory_CallByRefForNonPrimitive.java)
+- [Methods](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_Theory_Methods.java)
+- [PassByValue](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_Theory_PassByValue.java)
+- [voidMethodEg](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_Theory_voidMethodEg.java)
+
+### Case Study Questions
+- [GCD](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_CaseStudy_GCD.java)
+- [HexToDec](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_CaseStudy_HexToDec.java)
+- [PrimeNum](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_CaseStudy_PrimeNum.java)
 
 
 
