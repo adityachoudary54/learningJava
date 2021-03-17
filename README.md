@@ -76,6 +76,35 @@
 - [HexToDec](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_CaseStudy_HexToDec.java)
 - [PrimeNum](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch6_CaseStudy_PrimeNum.java)
 
+## Ch 7 Single Dimensional Arrays
+### Theory Questions
+- [Arrays](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_Arrays.java)
+- [BinarySearch](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_BinarySearch.java)
+- [CommandLineArgs](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_CommandLineArgs.java)
+- [CopyingArrays](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_CopyingArrays.java)
+- [PassingArrayToMethods](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_PassingArrayToMethods.java)
+- [Utils](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_Utils.java)
+- [VarArgs](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Theory_VarArgs.java)
+
+### Case Study Questions
+- [AnalyzeNumbers](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_CaseStudy_AnalyzeNumbers.java)
+- [CountingOccurencesOfEachLetter](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_CaseStudy_CountingOccurencesOfEachLetter.java)
+- [DeckOfCards](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_CaseStudy_DeckOfCards.java)
+
+### Practice Questions
+- [AnalyzeScores_Q4](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Practice_AnalyzeScores_Q4.java)
+- [ExecutionTime_Q16](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Practice_ExecutionTime_Q16.java)
+- [GcdNNumbers_Q14](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Practice_GcdNNumbers_Q14.java)
+- [PrimeNumbersDp](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Practice_PrimeNumbersDp.java)
+- [cntOccurence_Q3](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch7_Practice_cntOccurence_Q3.java)
 
 
+## Ch 8 Multi Dimensional Arrays
+### Theory Questions
+- [MultidimensionalArrayEg](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch8_Theory_MultidimensionalArrayEg.java)
+- [PassingToMethods](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch8_Theory_PassingToMethods.java)
+- [RaggedArray](https://github.com/adityachoudary54/learningJava/blob/main/JavaTut/src/com/company/Ch8_Theory_RaggedArray.java)
+### Case Study Questions
+
+### Practice Questions
 
