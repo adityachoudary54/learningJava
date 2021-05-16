@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.company","c":"Tut13_14_Strings","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.company","c":"Tut13_14_Strings","l":"Tut13_14_Strings()","url":"%3Cinit%3E()"}]
