@@ -77,15 +77,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Q22_CheckSubstring">
-    <configuration name="Q10_DecimalToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch4.CharAndStrings.Q10_DecimalToHex" />
-      <module name="revisingJava" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q45_MeanAndStandardDeviation">
     <configuration name="Q15_PhoneKeypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Ch4.CharAndStrings.Q15_PhoneKeypad" />
       <module name="revisingJava" />
@@ -102,16 +94,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8_CharOfASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch4.CharAndStrings.Q8_CharOfASCII" />
+    <configuration name="Q45_MeanAndStandardDeviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch5.Q45_MeanAndStandardDeviation" />
       <module name="revisingJava" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9_UnicodeOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch4.CharAndStrings.Q9_UnicodeOfChar" />
+    <configuration name="Q46_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch5.Q46_ReverseString" />
+      <module name="revisingJava" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q49_CountVowelsConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch5.Q49_CountVowelsConsonants" />
       <module name="revisingJava" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q45_MeanAndStandardDeviation" />
+        <item itemvalue="Application.Q46_ReverseString" />
+        <item itemvalue="Application.Q49_CountVowelsConsonants" />
         <item itemvalue="Application.Q22_CheckSubstring" />
         <item itemvalue="Application.Q15_PhoneKeypad" />
-        <item itemvalue="Application.Q10_DecimalToHex" />
-        <item itemvalue="Application.Q9_UnicodeOfChar" />
-        <item itemvalue="Application.Q8_CharOfASCII" />
       </list>
     </recent_temporary>
   </component>
