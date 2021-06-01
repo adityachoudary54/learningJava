@@ -1,6 +1,6 @@
 package com.company.Ch2;
 
-public class showCurrentTime_theory {
+public class ShowCurrentTime_theory {
     public static void main(String[] args) {
         long totalMillisec = System.currentTimeMillis();
 //        Secs

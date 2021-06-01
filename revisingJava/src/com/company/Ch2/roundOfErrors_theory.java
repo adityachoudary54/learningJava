@@ -1,6 +1,6 @@
 package com.company.Ch2;
 
-public class roundOfErrors_theory {
+public class RoundOfErrors_theory {
     public static void main(String[] args) {
 //        show 0.7000000000000001 not 0.7 so be carfefull
 //        when dealing with floats and double
