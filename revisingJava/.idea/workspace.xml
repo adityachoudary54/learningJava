@@ -75,43 +75,54 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaTut" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Q45_MeanAndStandardDeviation">
-    <configuration name="Q15_PhoneKeypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch4.CharAndStrings.Q15_PhoneKeypad" />
+  <component name="RunManager" selected="Application.Th2_Polymorphism">
+    <configuration name="AbhishekTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AbhishekTest" />
       <module name="revisingJava" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q22_CheckSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch4.CharAndStrings.Q22_CheckSubstring" />
+    <configuration name="Q26_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch10.Practice.Q26_Calculator" />
+      <module name="revisingJava" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;  4   *   5  &quot;" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q27_MyStringBuilder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch10.Practice.Q27_MyStringBuilder1" />
       <module name="revisingJava" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q45_MeanAndStandardDeviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch5.Q45_MeanAndStandardDeviation" />
+    <configuration name="Th1_Geometry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch11.Theory.Th1_Geometry" />
       <module name="revisingJava" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q46_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch5.Q46_ReverseString" />
-      <module name="revisingJava" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q49_CountVowelsConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ch5.Q49_CountVowelsConsonants" />
+    <configuration name="Th2_Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ch11.Theory.Th2_Polymorphism" />
       <module name="revisingJava" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -124,13 +135,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Q26_Calculator" />
+      <item itemvalue="Application.Q27_MyStringBuilder1" />
+      <item itemvalue="Application.Th1_Geometry" />
+      <item itemvalue="Application.AbhishekTest" />
+      <item itemvalue="Application.Th2_Polymorphism" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q45_MeanAndStandardDeviation" />
-        <item itemvalue="Application.Q46_ReverseString" />
-        <item itemvalue="Application.Q49_CountVowelsConsonants" />
-        <item itemvalue="Application.Q22_CheckSubstring" />
-        <item itemvalue="Application.Q15_PhoneKeypad" />
+        <item itemvalue="Application.Th2_Polymorphism" />
+        <item itemvalue="Application.Th1_Geometry" />
+        <item itemvalue="Application.AbhishekTest" />
+        <item itemvalue="Application.Q27_MyStringBuilder1" />
+        <item itemvalue="Application.Q26_Calculator" />
       </list>
     </recent_temporary>
   </component>
