@@ -1,4 +1,4 @@
-# Java
+# [Java Notes](https://docs.google.com/document/d/1WI37Mbtx8v0PyfnJvnZ5wv-8RkuFxKOIV4efyNpP6DA/edit?usp=sharing)
 
 ## Ch 3 Conditionals
 ### Case Study Questions
